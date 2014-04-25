@@ -46,7 +46,9 @@ pre {
 }
 </style>
 
-<h1><img src="images/io2012_logo.png"> HTML5 Slide Template</h1>
+<h1>Slides Formación Drupal</h1>
+
+Slides de Formación Drupal con el motor de la #io12 :)
 
 ## Configuring the slides
 
